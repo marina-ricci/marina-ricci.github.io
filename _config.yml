@@ -12,7 +12,7 @@ title                    : "Marina Ricci"
 title_separator          : "-"
 name                     : &name "Marina Ricci"
 description              : &description "personal website"
-url                      : https://academicpages.github.io # the base hostname & protocol for your site e.g. "https://marina-ricci.github.io"
+url                      : https://marina-ricci.github.io # the base hostname & protocol for your site e.g. "https://marina-ricci.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "marina-ricci/marina-ricci.github.io"
 
