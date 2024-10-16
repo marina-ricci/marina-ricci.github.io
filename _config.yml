@@ -12,7 +12,7 @@ title                    : "Marina Ricci"
 title_separator          : "-"
 name                     : &name "Marina Ricci"
 description              : &description "personal website"
-url                      : https://marina-ricci.net #https://marina-ricci.github.io # the base hostname & protocol for your site e.g. "https://marina-ricci.github.io"
+url                      : https://marina-ricci.github.io # the base hostname & protocol for your site e.g. "https://marina-ricci.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "marina-ricci/marina-ricci.github.io"
 
@@ -24,7 +24,7 @@ author:
   avatar           : "photo_de_marina2.jpg"
   name             : "Marina"
   pronouns         : "she/her"  # example: "she/her"  
-  bio              : "Short biography for the left-hand sidebar"
+  bio              : "Researcher in astrophysics and cosmology at CNRS"
   location         : "APC, Paris"
   employer         : "CNRS"
   uri              : "https://apc.u-paris.fr/APC_CS/fr/users/ricci" # URL
@@ -32,11 +32,11 @@ author:
 
   # Academic websites
   arxiv            : # URL - Update with the correct link to your profile
-  googlescholar    : "https://scholar.google.com/citations?user=PS_CX0AAAAAJ"
+  googlescholar    : "https://scholar.google.com/citations?user=N6V-QssAAAAJ&hl=fr"
   impactstory      : # URL
   orcid            : "https://orcid.org/0000-0002-3645-9652"
   semantic         : # URL
-  pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
+  pubmed           : #URL
   researchgate     : # URL
 
   # Repositories and software development
@@ -48,7 +48,7 @@ author:
   stackoverflow    : # User number or user number and name (i.e., use "1" or "1/jeff-atwood")    
 
   # Social media
-  bluesky          : "bsky.app" # Replace this with you Bluesky username
+  bluesky          :  # Replace this with you Bluesky username
   facebook         : # Username
   flickr           : # Username
   foursquare       : # Username
