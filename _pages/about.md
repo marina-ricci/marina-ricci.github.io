@@ -6,12 +6,4 @@ redirect_from:
   - /about/
   - /about.html
 ---
-
-About me 
-======
-I am a XXX. 
-I'm interested in XXXX. 
-I'm part of this collabs XXX. 
-I'm aslo interested in XXXX. 
-When I'm not doing research you can find me doing XXX. 
-
+I’m an observational cosmologist, analyzing the Large Scale Structures of the Universe to better understand it’s evolution and the underlying laws of physics. I am particularly interested in the most massive bound structures in our Universe : Galaxy Clusters.
